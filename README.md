@@ -1,6 +1,6 @@
 # Health-Insurance-Lead-Prediction
 Top 3% Solution for Analytics Vidhya Hackathon on their website from 26-28 Feb 2021.  
-The link for the same can be found [here](https://datahack.analyticsvidhya.com/contest/job-a-thon/)
+The link for the same can be found [here](https://datahack.analyticsvidhya.com/contest/job-a-thon/).  
 You can try this notebook on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrout94/Health-Insurance-Lead-Prediction/blob/main/Final_Notebook.ipynb)
 
 # Why this Competition?
